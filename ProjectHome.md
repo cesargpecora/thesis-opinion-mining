@@ -1,0 +1,1 @@
+Thesis of the last year of Systems Engineer course based on Opinion Mining classification using Twitter as the entry database
